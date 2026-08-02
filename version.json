@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2.0",
-  "mandatory": false,
-  "url": "https://github.com/pdickppd3/bom/releases/download/v0.0.2/ANN_v0.0.2.zip",
-  "notes": "ANNVPN v0.0.2 update"
+  "version": "0.0.3.0",
+  "mandatory": true,
+  "url": "https://github.com/pdickppd3/bom/releases/download/v0.0.3/ANN_v0.0.3.zip",
+  "notes": "ANNVPN v0.0.3 update"
 }
